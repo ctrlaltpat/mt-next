@@ -25,7 +25,7 @@ export default function BlockingCounter({
       const result = expensiveCount(limit);
       setBlockingCount(result);
       setIsBlocking(false);
-    }, 1000);
+    }, 300);
   };
 
   return (

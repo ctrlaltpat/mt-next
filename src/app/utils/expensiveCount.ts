@@ -1,4 +1,4 @@
-export const unlucky_dev_career_number = 199_999;
+export const unlucky_dev_career_number = 499_999;
 export const really_unlucky_dev_career_number = 897_071_456;
 
 export default function expensiveCount(
